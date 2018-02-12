@@ -1,0 +1,238 @@
+.icon-bar
+{
+	background-color: black;
+}
+
+.j1
+{
+	background: url('../a.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+	font-weight: lighter;
+}
+
+.j1 h2
+{
+
+	display: flex;
+	justify-content: center;;
+	float:center;
+	color: #ecf0f1;
+	font-weight: lighter;
+	text-align: center;
+	
+}
+
+.j1 p
+{
+	display: flex;
+	justify-content: center;;
+	float:center;
+	color: white;
+	text-align: center;
+}
+
+.bt
+{
+	background-color: #1abc9c;
+	color: white;
+	border-style: none;
+}
+.btnbtn
+{
+	display: flex;
+	justify-content: center;
+	float:center;	
+}
+
+.bb h2
+{
+	display: flex;
+	justify-content: center;
+	float:center;
+	color: #bdc3c7;
+}
+.bb p
+{
+	display: flex;
+	justify-content: center;
+	float:center;
+	color: #bdc3c7;		
+}
+
+#lamiya a
+{
+	color:  #1abc9c;
+}
+
+
+.navbar-nav
+{
+	float: right;
+	/*color: #16a085;*/
+
+}
+/*.navbar-brand a
+{
+	float: left;
+}
+.navbar-brand h2
+{
+	float: left;
+}*/
+
+
+.nb i
+{
+	/*float: left;*/
+	color: #1abc9c;
+}
+.nb h3
+{
+	float: left;
+	color: black;
+}
+
+/*
+.nb a
+{
+ color: #1abc9c;
+ height: 50px;
+ width: 50px;
+}*/
+
+
+.j2
+{
+	background: url('../b.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 250px;
+	font-weight: lighter;
+}
+
+.j2 small
+{
+	display: flex;
+	justify-content: center;;
+	float:center;
+	color: white;
+
+}
+.col-md-6
+{
+	color: #999;
+}
+
+
+.footer-fluid h3
+{
+	height: 80px;
+}
+
+.footer-fluid p
+{
+	height: 80px;
+}
+
+.footer-fluid h3
+{
+	display: flex;
+	justify-content: center;
+	float:center;
+	color: #999;
+}
+
+.footer-fluid p
+{
+	display: flex;
+	justify-content: center;
+	float:center;
+	color: #999;
+}
+
+
+
+
+
+.j3
+{
+	background-color: #16a085;
+	size: 400px;	
+}
+
+
+.col-md-3 i
+{
+	display: flex;
+	justify-content: center;
+	float:center;
+}
+
+.ic
+{
+	color: rgba(241, 196, 15,1.0);
+
+}
+
+.iv
+{
+	color: #16a085;
+}
+
+.col-md-3 h4
+{
+	display: flex;
+	justify-content: center;
+	float:center;
+	color: white;
+
+}
+
+
+
+.col-md-3 p
+{
+	display: flex;
+	justify-content: center;
+	float:center;
+	color: #bdc3c7;
+
+}
+
+
+.m
+{
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+
+.well-sm
+{
+	margin: 3px auto;
+}
+
+
+@media screen and (max-width: 480px)
+{
+	.j2
+	{
+		height: auto;
+		float: none;
+		justify-content: center;
+	    display: block;
+	}
+
+/*
+	.j1 p
+	{
+		float: none;
+		justify-content: center;
+	    display: block;
+	}*/
+
+}
+
